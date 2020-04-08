@@ -1,0 +1,16 @@
+/Users/jarvisyang/Documents/testApps/golden/app/bin/Debug/netcoreapp3.1/app.deps.json
+/Users/jarvisyang/Documents/testApps/golden/app/bin/Debug/netcoreapp3.1/app.runtimeconfig.json
+/Users/jarvisyang/Documents/testApps/golden/app/bin/Debug/netcoreapp3.1/app.runtimeconfig.dev.json
+/Users/jarvisyang/Documents/testApps/golden/app/bin/Debug/netcoreapp3.1/app.dll
+/Users/jarvisyang/Documents/testApps/golden/app/bin/Debug/netcoreapp3.1/app.pdb
+/Users/jarvisyang/Documents/testApps/golden/app/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/jarvisyang/Documents/testApps/golden/app/bin/Debug/netcoreapp3.1/library.dll
+/Users/jarvisyang/Documents/testApps/golden/app/bin/Debug/netcoreapp3.1/library.pdb
+/Users/jarvisyang/Documents/testApps/golden/app/obj/Debug/netcoreapp3.1/app.csprojAssemblyReference.cache
+/Users/jarvisyang/Documents/testApps/golden/app/obj/Debug/netcoreapp3.1/app.csproj.CoreCompileInputs.cache
+/Users/jarvisyang/Documents/testApps/golden/app/obj/Debug/netcoreapp3.1/app.AssemblyInfoInputs.cache
+/Users/jarvisyang/Documents/testApps/golden/app/obj/Debug/netcoreapp3.1/app.AssemblyInfo.cs
+/Users/jarvisyang/Documents/testApps/golden/app/obj/Debug/netcoreapp3.1/app.csproj.CopyComplete
+/Users/jarvisyang/Documents/testApps/golden/app/obj/Debug/netcoreapp3.1/app.dll
+/Users/jarvisyang/Documents/testApps/golden/app/obj/Debug/netcoreapp3.1/app.pdb
+/Users/jarvisyang/Documents/testApps/golden/app/obj/Debug/netcoreapp3.1/app.genruntimeconfig.cache

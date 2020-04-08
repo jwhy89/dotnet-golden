@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVfUA+ElPXAdtsNjXH10uWaxRKqmPYrvU6Te12ErlE4lT1FiUBpdbGMInLOM4RfQWgZWNYRIztkPj/A8X7ENlg==",
+  "success": true,
+  "projectFilePath": "/Users/jarvisyang/Documents/testApps/golden/app/app.csproj",
+  "expectedPackageFiles": [
+    "/Users/jarvisyang/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

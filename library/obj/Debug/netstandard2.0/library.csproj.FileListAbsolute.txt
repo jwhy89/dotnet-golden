@@ -1,0 +1,9 @@
+/Users/jarvisyang/Documents/testApps/golden/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/jarvisyang/Documents/testApps/golden/library/bin/Debug/netstandard2.0/library.dll
+/Users/jarvisyang/Documents/testApps/golden/library/bin/Debug/netstandard2.0/library.pdb
+/Users/jarvisyang/Documents/testApps/golden/library/obj/Debug/netstandard2.0/library.csprojAssemblyReference.cache
+/Users/jarvisyang/Documents/testApps/golden/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/jarvisyang/Documents/testApps/golden/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/jarvisyang/Documents/testApps/golden/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/jarvisyang/Documents/testApps/golden/library/obj/Debug/netstandard2.0/library.dll
+/Users/jarvisyang/Documents/testApps/golden/library/obj/Debug/netstandard2.0/library.pdb
